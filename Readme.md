@@ -29,7 +29,11 @@ spring sprout:Photo by <a href="https://unsplash.com/@gallarotti?utm_content=cre
 
 summer beach： Photo by <a href="https://unsplash.com/@moseshalym?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Moosa Haleem</a> on <a href="https://unsplash.com/photos/green-palm-tree-on-white-sand-beach-during-daytime-758Km8MAcyI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-simple clock: Photo by <a href="https://unsplash.com/@amofifty?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Amo fifty</a> on <a href="https://unsplash.com/photos/a-clock-made-out-of-black-pieces-of-wood-S_YBV2NlwjQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+simple clock: Photo by <a href="https://unsplash.com/@amofifty?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Amo fifty</a> on <a href="https://unsplash.com/photos/a-clock-made-out-of-black-pieces-of-wood-S_YBV2NlwjQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
+
+draft 1 (2/18):  
+![image](https://github.com/user-attachments/assets/d3f73b95-94d4-4790-acec-e14c10a09851)  
+I have found some picture for my project and tried to connect them together. I ahve found the four season's picture which are representing the time passing, and some of which are from the website, some of which are from the pictures I take. I also find the picture for clock and so on. I changes the transparency of some pictures, and sorted them in a logical way. I also added a title to my project.
 
       
       
