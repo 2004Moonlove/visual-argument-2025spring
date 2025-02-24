@@ -43,10 +43,13 @@ draft 1 (2/18):
 ![image](https://github.com/user-attachments/assets/d3f73b95-94d4-4790-acec-e14c10a09851)  
 I have found some picture for my project and tried to connect them together. I ahve found the four season's picture which are representing the time passing, and some of which are from the website, some of which are from the pictures I take. I also find the picture for clock and so on. I changes the transparency of some pictures, and sorted them in a logical way. I also added a title to my project.
 
-  draft 2 (2/23):  
+  draft 2 (2/22):  
   ![image](https://github.com/user-attachments/assets/2af9870c-52a6-4e61-acbe-157c95aa4ee3)
+  draft 3 (2/23):  
+  ![image](https://github.com/user-attachments/assets/ad7803b6-c00b-48c7-be89-1ddffe96c085)
 
-  I cut the images of the calendar and the sandglass out of the previous images and lay it on the top of the layers. I also cjanges the typr of the words. Besides that I merge the edge of the four season pictures as I make the edge of gradual change with a greyscale mask also using the pen brush to make the edge merge more natural.
+
+  I cut the images of the calendar and the sandglass out of the previous images and lay it on the top of the layers. I also cjanges the typr of the words. Besides that I merge the edge of the four season pictures as I make the edge of gradual change with a greyscale mask also using the pen brush to make the edge merge more natural. I also add some sentences to the picture to make it more meaningful.
 
       
       
