@@ -41,7 +41,8 @@ draft 1 (2/18):
 I have found some picture for my project and tried to connect them together. I ahve found the four season's picture which are representing the time passing, and some of which are from the website, some of which are from the pictures I take. I also find the picture for clock and so on. I changes the transparency of some pictures, and sorted them in a logical way. I also added a title to my project.
 
   draft 2 (2/23):  
-  https://github.com/2004Moonlove/visual-argument-2025spring/blob/main/draft%202-23.png?raw=true
+  ![image](https://github.com/user-attachments/assets/2af9870c-52a6-4e61-acbe-157c95aa4ee3)
+
   I cut the images of the calendar and the sandglass out of the previous images and lay it on the top of the layers. I also cjanges the typr of the words. Besides that I merge the edge of the four season pictures as I make the edge of gradual change with a greyscale mask also using the pen brush to make the edge merge more natural.
 
       
