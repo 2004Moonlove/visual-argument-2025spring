@@ -11,9 +11,8 @@ To show this, I want to use the scenery of the four season of a year to be the m
 | the image of clock  | Unsplash/Pixabay | |
 | the image of sandglass  | Unsplash/Pixabay | |
 | the image of calendar  | Unsplash/Pixabay|  |
-| the image of playground  |  pictures taken by me | |
-| the image of old tings  | Unsplash/Pixabay or pictures taken by me | |
-| the image of people  | Unsplash/Pixabay | |
+| the image of writing exam  | Unsplash/Pixabay|  |
+| the image of playground  |  Unsplash/Pixabay | |
 
 sandglass: Photo by <a href="https://unsplash.com/@aronvisuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aron Visuals</a> on <a href="https://unsplash.com/photos/selective-focus-photo-of-brown-and-blue-hourglass-on-stones-BXOXnQ26B7o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
       
@@ -31,11 +30,23 @@ summer beach： Photo by <a href="https://unsplash.com/@moseshalym?utm_content=c
 
 simple clock: Photo by <a href="https://unsplash.com/@amofifty?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Amo fifty</a> on <a href="https://unsplash.com/photos/a-clock-made-out-of-black-pieces-of-wood-S_YBV2NlwjQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
 
+playground 1:Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jon Tyson</a> on <a href="https://unsplash.com/photos/numbering-start-line-on-concrete-floor-r9T0LZv8xWQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+writing exam:Photo by <a href="https://unsplash.com/@yustinustjiu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Yustinus Tjiuwanda</a> on <a href="https://unsplash.com/photos/woman-wearing-white-sweater-BCBGahg0MH0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
+      
+
 draft 1 (2/18):  
 ![image](https://github.com/user-attachments/assets/9471c32e-7769-4a66-b62a-24168ab171fb)  
 
 ![image](https://github.com/user-attachments/assets/d3f73b95-94d4-4790-acec-e14c10a09851)  
 I have found some picture for my project and tried to connect them together. I ahve found the four season's picture which are representing the time passing, and some of which are from the website, some of which are from the pictures I take. I also find the picture for clock and so on. I changes the transparency of some pictures, and sorted them in a logical way. I also added a title to my project.
+
+  draft 2 (2/23):  
+  ![image](https://github.com/user-attachments/assets/2af9870c-52a6-4e61-acbe-157c95aa4ee3)
+
+  I cut the images of the calendar and the sandglass out of the previous images and lay it on the top of the layers. I also cjanges the typr of the words. Besides that I merge the edge of the four season pictures as I make the edge of gradual change with a greyscale mask also using the pen brush to make the edge merge more natural.
 
       
       
