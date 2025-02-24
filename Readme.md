@@ -12,8 +12,6 @@ To show this, I want to use the scenery of the four season of a year to be the m
 | the image of sandglass  | Unsplash/Pixabay | |
 | the image of calendar  | Unsplash/Pixabay|  |
 | the image of playground  |  pictures taken by me | |
-| the image of old tings  | Unsplash/Pixabay or pictures taken by me | |
-| the image of people  | Unsplash/Pixabay | |
 
 sandglass: Photo by <a href="https://unsplash.com/@aronvisuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Aron Visuals</a> on <a href="https://unsplash.com/photos/selective-focus-photo-of-brown-and-blue-hourglass-on-stones-BXOXnQ26B7o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
       
