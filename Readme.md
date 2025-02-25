@@ -51,6 +51,10 @@ I have found some picture for my project and tried to connect them together. I a
 
   I cut the images of the calendar and the sandglass out of the previous images and lay it on the top of the layers. I also cjanges the typr of the words. Besides that I merge the edge of the four season pictures as I make the edge of gradual change with a greyscale mask also using the pen brush to make the edge merge more natural. I also add some sentences to the picture to make it more meaningful.
 
+  draft 4 (2/25):
+  ![image](https://github.com/user-attachments/assets/35e4be3c-f5a0-49d7-ad3a-a79206f34b43)
+
+
       
       
       
