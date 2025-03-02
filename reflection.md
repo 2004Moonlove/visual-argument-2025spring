@@ -1,4 +1,4 @@
-# reflection
+# Reflection
 ## Project: Where did time go?
 **introduction:**  
 For my visual rhetoric project， I want to focus the fast passage of time calling everyone to cherish it. In our daily life, we may often think of the question that "Where did the time go?". It seems that the time has always been passing so fast and so quiet that the thought "What!? I have already grown up!" strikes to my mind. Inadvertently, as time passed, each of us grew up quietly.  
